@@ -43,7 +43,7 @@ export const managers = [
        //"preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
      //},
   
-  ]
+  
   
   
   /*   !!  !!  IMPORTANT  !!  !! */
@@ -76,4 +76,5 @@ export const managers = [
          "tradingScale": 10, // 1 - 10 (optional)
          "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
-    
+    ]
+
