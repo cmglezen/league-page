@@ -111,8 +111,6 @@
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Section 5: League Deadlines</h3>
     
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(fiveOne)}>5.1 League Tanking Policy</h4>
-
     <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Rookie Draft</h3>
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: Playoffs</h3>
